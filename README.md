@@ -1,12 +1,18 @@
 # ws-consultar-objeto-correios-java
 
+<h5>Mensagem no console do eclipse.</h5>
+
 <div><img alt="not_found" src="img/not_found.png" /></div>
-<br>
+==========================================================
 <div><img alt="found" src="img/found.png" /></div>
+==================================================
 
 ###Objetivo
 
-Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS) para buscar situação da mercadoria pelo objeto do correios(postado/entregue/extraviado/longe de casa ;D). Conforme o prints acima.
+Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS) para buscar situação da mercadoria pelo objeto do correios(postado/entregue/extraviado/longe de casa ;D). Conforme o prints acima.<br>
+Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os dados para retornar em JSON e XML. Utilizei retorno em JSON.<br>
+(https://github.com/talesluna)
+
 
 ###Pré-requisito para rodar o projeto			 
   -JDK 7<br>
