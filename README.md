@@ -9,9 +9,9 @@
 
 ###Objetivo
 
-Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS) para buscar situação da mercadoria pelo objeto do correios(postado/entregue/extraviado/longe de casa ;D). Conforme o prints acima.<br>
-Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os dados para retornar em JSON e XML. Utilizei retorno em JSON.<br>
-(https://github.com/talesluna)
+Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS) para buscar situação da mercadoria pelo objeto do correios(postado/entregue/extraviado/longe de casa ;D). Conforme os prints acima.<br>
+Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os dados para retornarem em JSON e XML. Utilizei retorno em JSON.<br>
+(https://github.com/talesluna/Rastro)
 
 
 ###Pré-requisito para rodar o projeto			 
