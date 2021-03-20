@@ -7,7 +7,7 @@
 <div><img alt="found" src="img/found.png" /></div>
 
 
-###Objetivo
+### Objetivo
 
 Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS) para buscar situação da mercadoria pelo objeto do correios(postado/entregue/extraviado/longe de casa ;D). Conforme os prints acima.<br>
 Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os dados para retornarem em JSON e XML. Utilizei retorno em JSON.<br>
@@ -22,7 +22,7 @@ Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os da
 ### Tecnologias utilizadas			 
   JAVA EE, JSON, MAVEN, JERSEY - API WS, Google Gson (Parser)
 		 
-###Como executar?
+### Como executar?
 Importar o projeto no eclipse.
 Botão direito do mouse no Project Explore > Import > Maven > Existing Maven Project > caminho do download feito.
 Abrir a classe App.java e executar método main. <br>
