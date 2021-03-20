@@ -3,9 +3,9 @@
 <h5>Mensagem no console do eclipse.</h5>
 
 <div><img alt="not_found" src="img/not_found.png" /></div>
-==========================================================
+
 <div><img alt="found" src="img/found.png" /></div>
-==================================================
+
 
 ###Objetivo
 
@@ -14,12 +14,12 @@ Nesse projeto utilizo o retorno do WS criado pelo @talesluna, que formatou os da
 (https://github.com/talesluna/Rastro)
 
 
-###Pré-requisito para rodar o projeto			 
+### Pré-requisito para rodar o projeto			 
   -JDK 7<br>
   -Eclipse<br>
   -Apache-Maven-3+
  
-###Tecnologias utilizadas			 
+### Tecnologias utilizadas			 
   JAVA EE, JSON, MAVEN, JERSEY - API WS, Google Gson (Parser)
 		 
 ###Como executar?
